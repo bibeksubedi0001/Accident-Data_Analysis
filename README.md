@@ -119,7 +119,7 @@ The following Python libraries are required:
 ```
 Accident Data Analysis/
 │
-├── accident_analysis.py         # Main Python script
+├── analysis.py         # Main Python script
 ├── Kathmandu_Accident_Data.csv  # Input dataset
 ├── Hotspot_Analysis.csv         # Exported hotspot report
 ├── Figures/                     # Saved graphical outputs
@@ -140,14 +140,3 @@ Accident Data Analysis/
 
 ---
 
-## Future Enhancements
-1. Incorporate real-time traffic and weather data.
-2. Develop interactive dashboards using tools like `Plotly` or `Dash`.
-3. Explore advanced machine learning models (e.g., XGBoost, neural networks).
-
----
-
-## License
-This project is licensed under the MIT License. 
-
-Feel free to contribute or modify the project!
